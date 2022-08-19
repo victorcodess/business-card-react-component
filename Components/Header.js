@@ -3,7 +3,7 @@ import ReactDom from 'react-dom'
 
 export default function Header() {
     return <div className = "header"> 
-            <img src = "https://user-images.githubusercontent.com/84178696/185516271-5b12aabc-eff9-4615-8507-52c87562ea35.png" /> 
+            <img src = "../square-min.png" /> 
             <h1>Victor Williams</h1>
             <h3>Frontend Developer</h3>   
             <a href="mailto:victor.williams@stu.cu.edu.ng"><p>victor.williams@stu.cu.edu.ng</p></a>
