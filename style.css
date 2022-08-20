@@ -20,6 +20,7 @@ body {
      background-color: #1A1B21;
      width: 300px;
      border-radius: 10px 10px 10px 10px; 
+     scale: 1.25;
      }
 
 .header {
